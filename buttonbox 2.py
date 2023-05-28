@@ -51,19 +51,3 @@ while True:
 
         pass
 
-    elif choice == 'Remove Monster':
-        # Remove a monster
-        # code to remove a monster from the list goes here
-        pass
-
-    elif choice == 'Output All Monsters':
-        # Output all monsters
-        output = 'All Monsters:\n'
-        for monster in monsters:
-            output += f"{monster['name']}\t\t: Strength {monster['Strength']}\t\t, Speed {monster['Speed']}\t\t," \
-                      f" Stealth {monster['Stealth']}\t\t, Cunning {monster['Cunning']}\t\t\n"
-        easygui.msgbox(msg=output, title='Monster Manager')
-
-    elif choice == 'Exit':
-        # Exit the program
-        break

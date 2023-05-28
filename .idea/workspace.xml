@@ -4,7 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a103c4d9-3dff-463a-a123-6f1f17fd21f2" name="Changes" comment="" />
+    <list default="true" id="a103c4d9-3dff-463a-a123-6f1f17fd21f2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Remove monster number 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add monster.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Assessment----.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Assessment----.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assessment" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionary (choice).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/button.n1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buttonbox 3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buttonbox.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dictionary n1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dictionary n2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pra.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice 2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice 3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,19 +42,25 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2PAB3tdQ89ysFLYojYPO9A9HvzA" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/arata/OneDrive - Middleton Grange School/2023/Computer Science/AS2.7-91896 Programming/Assessment/Assessment/Assessment----&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/arata/OneDrive - Middleton Grange School/2023/Computer Science/AS2.7-91896 Programming/Assessment/Assessment/Assessment----",
+    "run.code.analysis.last.selected.profile": "aDefault",
+    "settings.editor.selected.configurable": "preferences.sourceCode"
   }
-}</component>
-  <component name="RunManager" selected="Python.pra">
-    <configuration name="button.n1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RunManager" selected="Python.full code">
+    <configuration name="Remove monster number 1  (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Assessment----" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -48,7 +72,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/button.n1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Remove monster number 1 .py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -57,7 +81,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="buttonbox 3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Remove monster number 1 " type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Assessment----" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,7 +93,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/buttonbox 3.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\arata\OneDrive - Middleton Grange School\2023\Computer Science\AS2.7-91896 Programming\Assessment\Assessment\Assessment----\Remove monster number 1 .py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -78,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dictionary n2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Remove monster number 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Assessment----" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,7 +114,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictionary n2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Remove monster number 2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pra" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="dictionary + message" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Assessment----" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -111,7 +135,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pra.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictionary + message.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +144,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="practice 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="full code" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Assessment----" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,7 +156,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice 2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/full code.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.pra" />
-        <item itemvalue="Python.button.n1" />
-        <item itemvalue="Python.buttonbox 3" />
-        <item itemvalue="Python.dictionary n2" />
-        <item itemvalue="Python.practice 2" />
+        <item itemvalue="Python.full code" />
+        <item itemvalue="Python.dictionary + message" />
+        <item itemvalue="Python.Remove monster number 2" />
+        <item itemvalue="Python.Remove monster number 1  (1)" />
+        <item itemvalue="Python.Remove monster number 1 " />
       </list>
     </recent_temporary>
   </component>
@@ -161,5 +185,16 @@
       <updated>1682889809326</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
